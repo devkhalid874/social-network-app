@@ -23,7 +23,7 @@
     <li class="media post-form w-shadow">
         <div class="media-body">
             <div class="form-group post-input">
-                <textarea class="form-control" id="postForm" rows="2" placeholder="What's on your mind, Arthur?"></textarea>
+                <textarea class="form-control" id="postForm" rows="2" placeholder="What's on your mind, Khalid?"></textarea>
             </div>
             <div class="row post-form-group">
                 <div class="col-md-9">
@@ -55,7 +55,7 @@
                 <img src="{{('assets/images/users/user-1.jpg')}}" alt="Online user" class="mr-3 post-user-image">
                 <div class="media-body pb-3 mb-0 small lh-125">
                     <div class="d-flex justify-content-between align-items-center w-100">
-                        <a href="#" class="text-gray-dark post-user-name">John Michael</a>
+                        <a href="#" class="text-gray-dark post-user-name">Salman Khan</a>
                         <div class="dropdown">
                             <a href="#" class="post-more-settings" role="button" data-toggle="dropdown" id="postOptions" aria-haspopup="true" aria-expanded="false">
                                 <i class='bx bx-dots-horizontal-rounded'></i>
@@ -207,7 +207,7 @@
                                             </a>
                                             <div class="media-body">
                                                 <div class="d-flex justify-content-between align-items-center w-100">
-                                                    <strong class="text-gray-dark"><a href="#" class="fs-8">Karen Minas</a></strong>
+                                                    <strong class="text-gray-dark"><a href="#" class="fs-8">Babar Azam</a></strong>
                                                     <a href="#"><i class='bx bx-dots-horizontal-rounded'></i></a>
                                                 </div>
                                                 <span class="d-block comment-created-time">30 min ago</span>
