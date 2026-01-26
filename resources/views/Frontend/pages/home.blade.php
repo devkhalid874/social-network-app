@@ -227,7 +227,7 @@
                                             </a>
                                             <div class="media-body">
                                                 <div class="d-flex justify-content-between align-items-center w-100">
-                                                    <strong class="text-gray-dark"><a href="#" class="fs-8">Lia Earnest</a></strong>
+                                                    <strong class="text-gray-dark"><a href="#" class="fs-8">Cristiano</a></strong>
                                                     <a href="#"><i class='bx bx-dots-horizontal-rounded'></i></a>
                                                 </div>
                                                 <span class="d-block comment-created-time">2 hours ago</span>
