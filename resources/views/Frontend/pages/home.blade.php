@@ -112,7 +112,7 @@
                 </div>
             </div>
             <div class="mt-3">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis voluptatem veritatis harum, tenetur, quibusdam voluptatum, incidunt saepe minus maiores ea atque sequi illo veniam sint quaerat corporis totam et. Culpa?</p>
+                <p>Today Wheather is Amazing</p>
             </div>
             <div class="d-block mt-3">
                 <img src="{{ asset('assets/images/posts/generalhome.png') }}" class="post-content" alt="post image">
@@ -339,7 +339,7 @@
                 </div>
             </div>
             <div class="mt-3">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis voluptatem veritatis harum, tenetur, quibusdam voluptatum, incidunt saepe minus maiores ea atque sequi illo veniam sint quaerat corporis totam et. Culpa?</p>
+                <p>Toward's My destination</p>
             </div>
             <div class="d-block mt-3">
                 <video id="my_video_1" class="video-js vjs-default-skin post-content" width="640px" height="400px" controls preload="none" poster='https://scontent.fevn1-2.fna.fbcdn.net/v/t1.0-9/53323455_587990788367325_4529827897430507520_n.jpg?_nc_cat=100&_nc_eui2=AeF-F6s-7bevnyjZs6JbGj3WPqHUIRKQ4uJ2vH8L-OD-3KZPZFJ7GVOVSYewqLB1928c3NeJ-OWQgN9et1oxB4kpONH0rFMSpp1H-lfjwH2tzA&_nc_ht=scontent.fevn1-2.fna&oh=ab0d869caefae1260b3ff755e2e031ba&oe=5D07FF32' data-setup='{ "aspectRatio":"640:400", "playbackRates": [1, 1.5, 2] }'>
